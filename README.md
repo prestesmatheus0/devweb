@@ -10,8 +10,6 @@ Essas instruções devem fornecer uma cópia do projeto em funcionamento na máq
 
 Pré-Requisitos
 
-Things you need to get started:
-
 - Uma versão recente do Node, no meu caso uso a v13.11.0
 - Um bom editor de texto(Eu utilizo VS Code)
 
