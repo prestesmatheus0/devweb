@@ -46,3 +46,9 @@ Feito com
 Matheus Barros Prestes
 
 Orlando Medeiros.
+
+**Funcionamento**
+
+Aqui você pode pesquisar o filme desejado e ele será exibido na tela.
+
+![Imagem](Devweb.png)
